@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 give_number = input("Give me a number: ")
 answer = ''
